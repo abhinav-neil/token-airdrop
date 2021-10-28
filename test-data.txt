@@ -1,0 +1,6 @@
+# Airdrop/Multisend
+
+## csv input
+- token address: 0x01BE23585060835E02B77ef475b0Cc51aA1e0709 (LINK)
+- recipients: 0x02d95DC8035a7Da8e05Da9594F0fb015C6cBED85, 0x1a3d68bbEAcAE79e3eD8dfE373608569C4b1c5f0
+- amounts: 1, 2
